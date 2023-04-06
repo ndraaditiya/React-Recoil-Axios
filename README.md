@@ -5,6 +5,6 @@ Recoil is offcial React state management from Facebook, you can see the docs her
 
 With this project, at least you'll know how to use Recoil on CRUD operation with Axios.
 
-You can access this hosted project on: **https://react-recoil-axios.vercel.app/**
+You can access this hosted project on: **https://react-recoil-axios.netlify.app/**
 
 by the way, you can also get the free API from this repo: https://github.com/ndraaditiya/public-api-crud-todoApp
